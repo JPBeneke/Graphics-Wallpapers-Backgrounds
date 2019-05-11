@@ -2,6 +2,7 @@
 
 Various Graphics, Wallpapers and Backgrounds.
 
+
 ## Enlightenment Window Manager
 
-Various Graphics and Wallpaer: https://www.enlightenment.org/
+Various Graphics and Wallpaer:  https://www.enlightenment.org/
